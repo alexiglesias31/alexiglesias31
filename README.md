@@ -2,6 +2,7 @@
 Software developer:
 - 🥼 Wordpress and Woocommerce.
 - 🌱 Backend development using NodeJs, ExpressJs and JS|TS.
+- 🤖 IoT development (Contiki, Arduino).
 
 Currently working as Product Engineer at [Saucal](https://www.saucal.com)
 
